@@ -1,3 +1,3 @@
 # video-chat-app
 
-Hosted with Heroku
+Hosted with Heroku and Netlify
